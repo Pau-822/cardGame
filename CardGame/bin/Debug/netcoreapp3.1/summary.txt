@@ -1,0 +1,13 @@
+
+
+Rank: High Card
+Number of Hands:46	Percentage of Hands:46	Overall Winning Hands:140	Total Played:23000	Percentage Winning hands:0.04782608695652174
+
+Rank: Three of a Kind
+Number of Hands:2	Percentage of Hands:2	Overall Winning Hands:902	Total Played:1000	Percentage Winning hands:42
+
+Rank: One Pair
+Number of Hands:47	Percentage of Hands:47	Overall Winning Hands:5983	Total Played:23500	Percentage Winning hands:0.7872340425531915
+
+Rank: Two Pair
+Number of Hands:5	Percentage of Hands:5	Overall Winning Hands:1853	Total Played:2500	Percentage Winning hands:15.72

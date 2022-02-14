@@ -1,0 +1,14 @@
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\bin\Debug\netcoreapp3.1\CardGame.exe
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\bin\Debug\netcoreapp3.1\CardGame.deps.json
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\bin\Debug\netcoreapp3.1\CardGame.runtimeconfig.json
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\bin\Debug\netcoreapp3.1\CardGame.runtimeconfig.dev.json
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\bin\Debug\netcoreapp3.1\CardGame.dll
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\bin\Debug\netcoreapp3.1\CardGame.pdb
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\obj\Debug\netcoreapp3.1\CardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\obj\Debug\netcoreapp3.1\CardGame.AssemblyInfoInputs.cache
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\obj\Debug\netcoreapp3.1\CardGame.AssemblyInfo.cs
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\obj\Debug\netcoreapp3.1\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\obj\Debug\netcoreapp3.1\CardGame.dll
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\obj\Debug\netcoreapp3.1\CardGame.pdb
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\obj\Debug\netcoreapp3.1\CardGame.genruntimeconfig.cache
+C:\Users\pauli\Documents\UMKC\AI\Project 1\CardGame\CardGame\obj\Debug\netcoreapp3.1\CardGame.csproj.AssemblyReference.cache
